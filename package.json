@@ -1,0 +1,30 @@
+{
+  "name": "@rduk/sms-twilio",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "author": "RDUK <tech@rduk.fr>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "jshint lib/index.js",
+    "test": "npm run lint"
+  },
+  "keywords": [
+    "sms",
+    "twilio"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rd-uk/rduk-sms-twilio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rd-uk/rduk-sms-twilio/issues"
+  },
+  "homepage": "https://github.com/rd-uk/rduk-sms-twilio#readme",
+  "dependencies": {
+    "@rduk/sms": "0.0.1",
+    "twilio": "3.7.0"
+  },
+  "devDependencies": {
+    "jshint": "2.9.5"
+  }
+}
