@@ -1,6 +1,6 @@
 {
   "name": "@rduk/sms-twilio",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SMSProvider implementation for Twilio",
   "main": "lib/index.js",
   "author": "RDUK <tech@rduk.fr>",
