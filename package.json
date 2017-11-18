@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/rd-uk/rduk-sms-twilio#readme",
   "dependencies": {
-    "@rduk/sms": "0.0.1",
+    "@rduk/sms": "0.0.2",
     "twilio": "3.7.0"
   },
   "devDependencies": {
